@@ -7,19 +7,21 @@ This Repository contains following files:
   * UCP04
   * UCP05
   * UCP06
-* Reference Architecture
-* Component Diagram
+* Reference Architecture:
+ *  Reference Architecture
+* Component Diagram:
   * Комонентная модель
-* Domain analysis
-* Design of the App
+* Domain analysis:
+  *Domain analysis
+* Design of the App:
   * Начало дизайна приложения
-* Technical Task
+* Technical Task:
   * ТЗ
-* Results of the survey
+* Results of the survey:
   * Проведенный опрос
-* Functional and non-Functional requirements
+* Functional and non-Functional requirements:
   * (N)FR_HASCII
-* Presentations of the project
+* Presentations of the project:
   * Презентация 07.12.21
-* Positive pictures to make you smile
+* Positive pictures to make you smile:
   * You're the best, nothing's gonna ever keeep you down.
