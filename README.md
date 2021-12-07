@@ -8,7 +8,7 @@ This Repository contains following files:
   * UCP05
   * UCP06
 * Reference Architecture:
- *  Reference Architecture
+  * Reference Architecture
 * Component Diagram:
   * Комонентная модель
 * Domain analysis:
