@@ -12,7 +12,7 @@ This Repository contains following files:
 * Component Diagram:
   * Комонентная модель
 * Domain analysis:
-  *Domain analysis
+  * Domain analysis
 * Design of the App:
   * Начало дизайна приложения
 * Technical Task:
