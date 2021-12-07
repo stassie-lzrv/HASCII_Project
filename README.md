@@ -1,6 +1,6 @@
 # HASCII_Project
 This Repository contains following files:
-* Use cases
+*Use cases
   *UCP01 
   *UCP02
   *UCP03
