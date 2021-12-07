@@ -1,12 +1,12 @@
 # HASCII_Project
 This Repository contains following files:
-*Use cases
-  *UCP01 
-  *UCP02
-  *UCP03
-  *UCP04
-  *UCP05
-  *UCP06
+* Use cases
+  * UCP01 
+  * UCP02
+  * UCP03
+  * UCP04
+  * UCP05
+  * UCP06
 *Reference Architecture
 *Component Diagram
   *Комонентная модель
